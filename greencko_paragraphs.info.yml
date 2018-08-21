@@ -1,0 +1,23 @@
+name: 'Greencko Paragraphs'
+description: 'Provide Paragraph related configuration.'
+type: module
+core: 8.x
+version: 8.x-6.x-dev
+package: Greencko
+dependencies:
+  - ds
+  - entity_browser
+  - entity_reference_revisions
+  - field_group
+  - field_layout
+  - layout_discovery
+  - link
+  - paragraphs
+  - options
+  - text
+  - viewsreference
+  - webform
+  - greencko_core
+  - greencko_media
+  - greencko_user
+  - greencko_editor
