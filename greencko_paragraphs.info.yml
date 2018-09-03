@@ -1,5 +1,5 @@
 name: 'Greencko Paragraphs'
-description: 'Provide Paragraph related configuration.'
+description: 'Provide Paragraphs related configuration.'
 type: module
 core: 8.x
 version: 8.x-6.x-dev
